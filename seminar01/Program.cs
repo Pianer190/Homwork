@@ -13,6 +13,7 @@ Console.WriteLine("Такого дня недели не существует");
 
 else{
 
+// add line in console
 Console.WriteLine(days[day+1]);
 
 }
